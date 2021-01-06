@@ -1,1 +1,1 @@
-# atividade-06-gr-ficos
+# atividade-06-graficos
